@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class MyButton {
+public class MyButton {
+    public void makeButtons() {
+    }
 }
