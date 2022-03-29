@@ -58,7 +58,7 @@ ThirdShelving ts = new ThirdShelving();
             DefaultMutableTreeNode price33 = new DefaultMutableTreeNode(ss.thirdProductPriceSecondShelving());
 
 
-        shelf = new DefaultMutableTreeNode("Третья полка");
+        shelf = new DefaultMutableTreeNode("Вторая полка");
             root.add(shelf);
             shelf.add(product1);
             shelf.add(product22);
@@ -98,7 +98,7 @@ ThirdShelving ts = new ThirdShelving();
             DefaultMutableTreeNode price333 = new DefaultMutableTreeNode(ts.thirdProductPriceThirdShelving());
 
 
-            shelf = new DefaultMutableTreeNode("Вторая полка");
+            shelf = new DefaultMutableTreeNode("Третья полка");
             root.add(shelf);
             shelf.add(product11);
             shelf.add(product222);
